@@ -1,0 +1,23 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "Sample library application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pivovarovanatol/library-node.js.git"
+  },
+  "author": "pivovarovanatol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pivovarovanatol/library-node.js/issues"
+  },
+  "homepage": "https://github.com/pivovarovanatol/library-node.js#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "express": "^4.17.1"
+  }
+}
